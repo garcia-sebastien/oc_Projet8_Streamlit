@@ -3,7 +3,7 @@ contourpy==1.0.5
 cycler==0.11.0
 fonttools==4.25.0
 kiwisolver==1.4.4
-numpy==1.24.0
+numpy==1.23.4
 packaging==23.1
 pillow==10.0.1
 pyparsing==3.0.9
