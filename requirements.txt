@@ -24,3 +24,4 @@ llvmlite==0.40.0
 joblib==1.2.0
 threadpoolctl==3.5.0
 colorama==0.4.6
+xgboost==2.0.3
