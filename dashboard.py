@@ -6,9 +6,6 @@ import pandas as pd
 import pickle
 import shap
 
-# Configuration de l'affichage
-st.set_option('deprecation.showPyplotGlobalUse', False)
-
 # Configurer la page
 st.set_page_config(page_title="Prêt à dépenser - Dashboard d'Octroi de Crédit")
 
